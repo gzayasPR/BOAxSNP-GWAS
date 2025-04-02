@@ -1,6 +1,6 @@
 # Genetic Architecture of Thermotolerance Traits in Angus-Brahman Crossbred Cattle
 
-**Gabriel A. Zayas, et al.**  
+**Gabriel A. Zayas.**  
 Department of Animal Sciences, University of Florida  
 
 This repository contains the code, data processing pipeline, and analysis scripts for the study:
