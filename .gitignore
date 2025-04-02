@@ -1,0 +1,9 @@
+/data/
+/results/
+/bin/**/*.err
+/bin/**/*.out
+/bash_out/
+/bin/RUN_BOAxSNP_GWAS.Thermo.ALL.sh
+/bin/scripts/old
+/bin/project_env.sh
+/bin/scripts/Testing.Scripts/
